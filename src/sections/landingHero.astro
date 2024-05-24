@@ -1,8 +1,56 @@
 ---
   import NavBar from "../components/NavBar.astro";
 
-
+  const papelcrepeFont = 'caveat'
 ---
 
 
 <NavBar />
+
+<section class=" relative h-[125vh] lg:h-[150vh] md:h-[170vh]  flex flex-col md:flex-row w-full  md:justify-center  pt-4  ">
+  <div class="font2  h-fit z-10 text-2xl left-0 right-0 text-center
+    md:absolute md:text-6xl md:pt-12 md:pr-64 pb-8">
+
+    <h2 >Personaliza tus piñatas <span class="sm:hidden">con</span> </h2>
+
+    <h2 class="md:pl-28 md:pt-8 hidden sm:block">con <span class=`uppercase text-pink-500 md:text-8xl ${papelcrepeFont}`>Papel crepe</span></h2>
+    
+    <h1 class=`sm:hidden uppercase text-pink-500 text-6xl mt-4 ${papelcrepeFont}`>Papel crepe</h1>
+  </div>
+
+  <!-- IMAGES -->
+  <div class="flex flex-row justify-center items-center flex-wrap align-middle 
+
+  md:flex-row md:absolute md:w-full md:h-full md:items-center md:justify-center md:gap-20 ">
+  
+    <img class="w-36 md:w-fit md:h-[670px] md:pt-32" src="pinata2.png" alt="">
+    <img class="w-36 md:w-fit md:h-[670px] md:pb-32" src="pinata1.png" alt="">
+    <img class="w-52 md:hidden" src="pinata3.png" alt="">
+
+
+  </div>
+
+  <!-- BUTTON -->
+  <div class="flex justify-center items-center my-1">
+
+    <button 
+    class="md:hidden bg-opacity-80 caveat rounded-md bg-pink-300 
+    py-1  px-8 my-0 mx-auto text-2xl hover:scale-125 transition-all">
+    Pide tu piñata</button>
+
+  </div>
+
+  <p class="font2 md:absolute w-3/4 
+    flex justify-center  my-0 mx-auto 
+    z-30 left-0 right-36 bottom-10 lg:max-w-2xl 
+    text-2xl text-center md:pr-72  lg:bottom-20 ">
+    En Papelcrepe, nos especializamos en crear piñatas únicas y personalizadas que hacen de cada celebración un evento inolvidable.</p>
+
+  <!-- BUTTON -->
+  <button class="absolute z-40 bg-opacity-80 hidden 
+  m-auto justify-center items-center left-0 right-0 bottom-72
+  w-fit h-fit md:flex flex-col md:left-0 md:right-0 md
+  md:py-2 md:px-28 md:text-4xl caveat rounded-md bg-pink-300
+  hover:scale-125 transition-all">
+  Pide tu piñata</button>
+</section>
