@@ -9,7 +9,7 @@ export default {
 				'cardOne': '#BDFBFF',
 				'cardTwo': '#FFF7B2',
 				'subtitle': '#D061BE',
-				'card-three': '#F3A7FA',
+				'cardThree': '#F3A7FA',
 		
 			}
 			
