@@ -8,7 +8,11 @@ import Subtitle from "../components/Home/Subtitle.astro"
 
 
 
-<section class="h-screen flex flex-wrap justify-center items-center gap-2 ">
+<section 
+class="h-screen md:h-full md:w-[60%] 
+flex flex-wrap justify-center items-center gap-2
+md:grid md:grid-cols-3	md:mx-auto md:my-0 md:place-items-center md:gap-12
+">
 
   <CatalogueCards 
   name="Piñata de Bluey y Bingo" 
@@ -38,6 +42,29 @@ import Subtitle from "../components/Home/Subtitle.astro"
   price={99.99} 
   img="cardPinata4.png"
   font="caveat"/>
+
+  <div class="hidden md:block">
+
+    <CatalogueCards 
+    name="Piñata de Vaca" 
+    size="Tamaño grande" 
+    price={99.99} 
+    img="cardPinata4.png"
+    font="caveat"/>
+
+  </div>
+
+  <div class="hidden md:block">
+
+    <CatalogueCards 
+    name="Piñata de Vaca" 
+    size="Tamaño grande" 
+    price={99.99} 
+    img="cardPinata4.png"
+    font="caveat"/>
+
+  </div>
+
 </section>
 
 
