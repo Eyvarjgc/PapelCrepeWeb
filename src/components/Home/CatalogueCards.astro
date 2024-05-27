@@ -2,7 +2,7 @@
   interface Props {
     name: string;
     size: string;
-    price: number;
+    price: string;
     img:string;
     font:string;
   }
@@ -22,7 +22,7 @@
   
     
     <p class=` text-xl font-semibold ${font}`>Precio</p>
-    <span class="text-2xl pl-4 font-bold font2 ">${price}</span>
+    <span class="text-2xl pl-4 font-bold font2 ">$ {price}</span>
 
   </div>
   
