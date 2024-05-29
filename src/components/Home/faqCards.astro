@@ -1,0 +1,28 @@
+---
+  interface Props {
+    title: string;
+    text: string;
+    id:string
+  }
+
+const {title, text,id} = Astro.props
+
+---
+
+<section class="bg-gradient-to-r from-primary to-pink-500 rounded-md ">
+  <div class="flex justify-center hover:cursor-pointer hover:scale-105 transition-all faqButton "
+  data-id={id}
+  >
+    <h3 class=" text-2xl text-center caveat 
+   flex-grow" id={id}>{title}</h3>
+
+  <img src="faqMore.svg" alt="" class="mr-4 transition-all  faqImg " data-id={id}>
+  </div>
+
+
+  <p class="faqText text-center px-8  text-xl font2  hidden transition-all p-4 " data-id={id}>{text}</p>
+
+  
+</section>
+
+

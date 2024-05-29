@@ -1,0 +1,69 @@
+---
+import Subtitle from "../components/Home/Subtitle.astro";
+import FaqCards from "../components/Home/faqCards.astro";
+---
+
+
+
+
+<section class="flex flex-col mt-24 md:mt-4 ">
+  <Subtitle title="Preguntas Frecuentes"/>
+
+  <div class="flex flex-col md:flex-row md:w-2/3 mx-auto my-0 p-8 ">
+
+    <div class="md:w-1/2  flex justify-center items-center">
+
+      <img src="faqpinata.png" alt="" class="hidden md:block">
+
+    </div>
+    
+
+    <section class="md:w-1/2  flex flex-col gap-8 justify-center">
+      <FaqCards id="1" 
+      title="¿Cuanto es el costo de las piñatas?" 
+      text=" (un rango de 10 a 20 dólares, depende)"/>
+
+      <FaqCards id="2" 
+      title="¿Cuáles serian los tamaños de las piñatas? " 
+      text="varía"/>
+
+      <FaqCards id="3" 
+      title="¿como es la entrega de la piñata?"  
+      text="en persona en la tablas, si vive en otra provincia por transporte ferguson o uno express"/>
+
+      <FaqCards id="4" 
+      title="¿como se hace el pago?" 
+      text="(yappy o efectivo depende)"/>
+
+
+    </section>
+
+  </div>
+
+
+
+</section>
+
+
+<script>
+  const faqButton = document.querySelectorAll('.faqButton')
+
+
+  faqButton.forEach((element) => {
+    element.addEventListener('click', () => {
+      
+      
+      const id = element.getAttribute('data-id')
+      console.log(id);
+
+      const faqText = document.querySelector(`.faqText[data-id='${id}']`)
+      const faqImg  = document.querySelector(`.faqImg[data-id='${id}']`)
+
+
+      faqText.classList.toggle('hidden')
+      faqImg.classList.toggle('rotate-180')
+      })
+
+  });
+
+</script>
