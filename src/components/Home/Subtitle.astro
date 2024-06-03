@@ -1,11 +1,13 @@
 ---
   interface Props {
     title:string;
+    id:string;
+
   }
 
-  const {title} = Astro.props
+  const {title, id} = Astro.props
 ---
 
 <h1 class="text-center font2 text-3xl my-4 mx-auto
   text-primary  border-2 border-primary block w-fit px-4 py-2 md:text-5xl"
-  >{title}</h1>
+  id=`${id}`>{title}</h1>
