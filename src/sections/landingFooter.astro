@@ -1,28 +1,47 @@
-<footer class="w-full bg-pink-200  flex flex-col pt-4 mt-12">
-  <div class="flex justify-evenly">
+---
+  const { igLogo} = Astro.props
 
-    <picture class="hidden md:block">
-      <img src="logo.svg" alt="" >
-    </picture>
+
+---
+<footer class="w-full bg-pink-200  flex flex-col  mt-12 pt-12 text-center ">
+  <section class="md:w-[80%] mx-auto my-0 ">
+
+    <u class="flex list-none decoration-transparent gap-8 justify-center text-xl font2 flex-wrap">
+
+      <li class="hover:text-white transition-all hover:scale-110"><a href="/">Inicio</a> </li>
+      <li class="hover:text-white transition-all hover:scale-110"><a href="#faq">Preguntas frecuentes</a> </li>
+      <li class="hover:text-white transition-all hover:scale-110"><a href="/catalogue/">Catalogo</a>  </li>
+      <li class="hover:text-white transition-all hover:scale-110"><a href="https://api.whatsapp.com/send?phone=50762290991&text=Hola%20me%20gustaria%20pedir%20una%20piñata%20personalizada.">Contactanos</a>  </li>
+    </u>
+    <span class="block border-[1px] my-8"></span>
   
-    <section class="w-1/3">
-
-      <h1 class="font-bold text-2xl">Sobre nosotros</h1>
-      <p class="pt-4"> En Papelcrepe, transformamos tus ideas en realidad, haciendo de cada fiesta una experiencia especial.</p>
+    <section class="flex justify-center gap-12 text-xl font2 mx-auto my-0w-fit flex-wrap">
+      <div class="md:text-end">
+        <p class="text-lg font-bold text-subtitle">Correo</p>
+        <p>Example@gmail.com</p>
+      </div>
+      <div class="md:text-start">
+        <p class="text-lg font-bold text-subtitle">Telefono</p>
+        <p>6229-0991</p>
+      </div>
     </section>
+    <span class="block border-[1px] my-8"></span>
+
   
-    <section>
-      <h1 class="font-bold text-2xl">Siguenos</h1>
-      <ul>
-        <li><a href="https://www.instagram.com/_papelcrepe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="logotipo-de-instagram.png" class="w-8" alt="Instagram"></a></li>
-        
-      </ul>
-    </section>
+    <div>
+      <p>©2024 <a href="/" class="text-lg font-bold text-subtitle">Papel Crepe.</a>  Todos los derechos reservados.</p>
+    </div>
+  
+    <div class="flex justify-center my-4">
+      <a href="https://www.instagram.com/_papelcrepe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" ><img src={igLogo} alt="" class="w-12"></a>
+    </div>
+  
 
-  </div>
-  <div class="text-center mt-4 bg-pink-100 h-8 flex flex-col justify-center">
 
-    <footer>©2024 <strong>PapelCrepe</strong>- Todos los derechos reservados.</footer>
 
-  </div>
+
+
+
+
+  </section>
 </footer>
