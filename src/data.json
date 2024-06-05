@@ -1,6 +1,6 @@
 [
 {
-  "name": "La Granja de Zenón",
+  "name": "Granja de Zenón",
   "size": "Tamaño mediano (27 cm)",
   "price": "13.50",
   "img": "/catalogue/pinata1.png",
@@ -72,7 +72,7 @@
   "type": "numbers"
 },
 {
-  "name": "Steve de Minecraft",
+  "name": "Steve(Minecraft)",
   "size": "Tamaño grande (30 cm)",
   "price": "15.00",
   "img": "/catalogue/pinata10.png",
@@ -88,7 +88,7 @@
   "type": "characters"
 },
 {
-  "name": "Rubble de Paw patrol",
+  "name": "Rubble ",
   "size": "Tamaño grande (30 cm)",
   "price": "15.00",
   "img": "/catalogue/pinata12.png",
@@ -104,7 +104,7 @@
   "type": "numbers"
 },
 {
-  "name": "Piñata de Pastelito",
+  "name": "Pastelito",
   "size": "Tamaño grande (30 cm)",
   "price": "15 .00",
   "img": "/catalogue/pinata14.png",
