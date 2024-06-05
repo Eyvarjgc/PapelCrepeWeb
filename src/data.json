@@ -1,0 +1,196 @@
+[
+{
+  "name": "La Granja de Zenón",
+  "size": "Tamaño mediano (27 cm)",
+  "price": "13.50",
+  "img": "/catalogue/pinata1.png",
+  "font": "caveat",
+  "type": "numbers"
+},
+{
+  "name": "Paw Patrol",
+  "size": "Tamaño pequeño (18 cm)",
+  "price": "10.00",
+  "img": "/catalogue/pinata2.png",
+  "font": "caveat",
+  "type": "characters"
+},
+{
+  "name": "Moana Bebé",
+  "size": "Tamaño grande (30 cm)",
+  "price": "15.00",
+  "img": "/catalogue/pinata3.png",
+  "font": "caveat",
+  "type": "characters"
+},
+{
+  "name": "Caballo",
+  "size": "Tamaño mediano (25 cm)",
+  "price": "12.00",
+  "img": "/catalogue/pinata4.png",
+  "font": "caveat",
+  "type": "animals"
+},
+{
+  "name": "Frozen",
+  "size": "Tamaño mediano (27 cm)",
+  "price": "13.50",
+  "img": "/catalogue/pinata5.png",
+  "font": "caveat",
+  "type": "numbers"
+},
+{
+  "name": "Mickey Mouse",
+  "size": "Tamaño mediano (24 cm)",
+  "price": "12.00",
+  "img": "/catalogue/pinata6.png",
+  "font": "caveat",
+  "type": "characters"
+},
+{
+  "name": "Flamenco",
+  "size": "Tamaño mediano (24 cm)",
+  "price": "12.00",
+  "img": "/catalogue/pinata7.png",
+  "font": "caveat",
+  "type": "animals"
+},
+{
+  "name": "Piña veraniega",
+  "size": "Tamaño pequeño (18 cm)",
+  "price": "10.00",
+  "img": "/catalogue/pinata8.png",
+  "font": "caveat",
+  "type": "characters"
+},
+{
+  "name": "Bluey",
+  "size": "Tamaño mediano (27 cm)",
+  "price": "13.50",
+  "img": "/catalogue/pinata9.png",
+  "font": "caveat",
+  "type": "numbers"
+},
+{
+  "name": "Steve de Minecraft",
+  "size": "Tamaño grande (30 cm)",
+  "price": "15.00",
+  "img": "/catalogue/pinata10.png",
+  "font": "caveat",
+  "type": "characters"
+},
+{
+  "name": "Sonic el erizo",
+  "size": "Tamaño mediano (27 cm)",
+  "price": "13.50",
+  "img": "/catalogue/pinata11.png",
+  "font": "caveat",
+  "type": "characters"
+},
+{
+  "name": "Rubble de Paw patrol",
+  "size": "Tamaño grande (30 cm)",
+  "price": "15.00",
+  "img": "/catalogue/pinata12.png",
+  "font": "caveat",
+  "type": "characters"
+},
+{
+  "name": "Moana",
+  "size": "Tamaño mediano (27 cm)",
+  "price": "13.50",
+  "img": "/catalogue/pinata13.png",
+  "font": "caveat",
+  "type": "numbers"
+},
+{
+  "name": "Piñata de Pastelito",
+  "size": "Tamaño grande (30 cm)",
+  "price": "15 .00",
+  "img": "/catalogue/pinata14.png",
+  "font": "caveat",
+  "type": "characters"
+},
+{
+  "name": "Mickey Mouse",
+  "size": "Tamaño mediana (27 cm)",
+  "price": "13.50",
+  "img": "/catalogue/pinata15.png",
+  "font": "caveat",
+  "type": "numbers"
+},
+{
+  "name": "León",
+  "size": "Tamaño pequeña (18 cm)",
+  "price": "10.00",
+  "img": "/catalogue/pinata16.png",
+  "font": "caveat",
+  "type": "animals"
+},
+{
+  "name": "Dinosaurio",
+  "size": "Tamaño mediano (24 cm)",
+  "price": "12.00",
+  "img": "/catalogue/pinata17.png",
+  "font": "caveat",
+  "type": "animals"
+},
+{
+  "name": "Bartolito",
+  "size": "Tamaño mediano (27 cm)",
+  "price": "13.50",
+  "img": "/catalogue/pinata18.png",
+  "font": "caveat",
+  "type": "animals"
+},
+{
+  "name": "Reno",
+  "size": "Tamaño pequeño (18 cm)",
+  "price": "10.00",
+  "img": "/catalogue/pinata19.png",
+  "font": "caveat",
+  "type": "animals"
+}
+,
+{
+  "name": "Muñeco de nieve",
+  "size": "Tamaño pequeño (18 cm)",
+  "price": "10.00",
+  "img": "/catalogue/pinata20.png",
+  "font": "caveat",
+  "type": "animals"
+},
+{
+  "name": "Caballo ",
+  "size": "Tamaño pequeño (18 cm)",
+  "price": "10.00",
+  "img": "/catalogue/pinata21.png",
+  "font": "caveat",
+  "type": "animals"
+}
+,
+{
+  "name": "paw patrol ",
+  "size": "Tamaño mediano (27 cm)",
+  "price": "13.50",
+  "img": "/catalogue/pinata22.png",
+  "font": "caveat",
+  "type": "numbers"
+},
+{
+  "name": "Tematica Mariquita ",
+  "size": "Tamaño mediano (27 cm)",
+  "price": "13.50",
+  "img": "/catalogue/pinata23.png",
+  "font": "caveat",
+  "type": "numbers"
+},
+{
+  "name": "Ariel, la Sirenita",
+  "size": "Tamaño grande (27 cm)",
+  "price": "15.00",
+  "img": "/catalogue/pinata24.png",
+  "font": "caveat",
+  "type": "numbers"
+}
+]
