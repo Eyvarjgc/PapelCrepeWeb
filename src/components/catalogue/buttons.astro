@@ -1,0 +1,12 @@
+---
+interface Props {
+  dataset: string;
+}
+
+const {dataset} = Astro.props
+---
+
+<button class="text-gray-600 font2 text-2xl hover:text-pink-500 transition-all filter" data-name={dataset}>
+  <slot />
+
+</button>
