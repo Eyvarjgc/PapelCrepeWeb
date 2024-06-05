@@ -1,5 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import NavBar from "../components/NavBar.astro";
+
 import LandingHero from '../sections/landingHero.astro';
 import LandingCards from '../sections/landingCards.astro';
 import LandingCatalogue from '../sections/landingCatalogue.astro';
@@ -10,13 +12,15 @@ import LandingFooter from '../sections/landingFooter.astro';
 <Layout title="Papel crepe">
 	<main class="bg-pink-100">
 
+		<NavBar image="logo.svg"/>
 		<LandingHero />
 		<LandingCards />
 
 		<LandingCatalogue />
 		<LandingFAQ />
 
-		<LandingFooter />
+		<LandingFooter  igLogo="./public/instagram.png"/>
+
 	</main>
 </Layout>
 
