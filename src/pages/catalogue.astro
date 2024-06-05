@@ -102,25 +102,25 @@ import NoFilter from "../sections/catalogue/no-filter.astro";
 		const value =  e.currentTarget.dataset.name
 		const items = data.map(Element => {
 		return `
-		<div class=" h-[355px] w-32  md:h-80 relative px-2 md:w-52  ">
+		<div class="h-[340px] w-32  md:h-80 relative px-2 md:w-52  ">
   
-			<img src=${Element.img} alt="" class=" absolute top-0 z-10 h-52 w-48 left-0 right-0 mx-auto my-0">
+	<img src=${Element.img} alt="" class="absolute top-0 z-10 h-52 w-48 left-0 right-0 mx-auto my-0">
 
 
-			<div class="bg-cardThree flex flex-col  justify-end text-start 
+	<div class="bg-cardThree flex flex-col  justify-end text-start 
   h-52 absolute left-0 right-0 bottom-0 px-4 rounded-md">
-				
-				<h1 class="font-semibold md:text-xl text-base text-black"> <span class=${Element.font}>${Element.name}</span> </h1>
+		
+		<h1 class="font-semibold md:text-xl text-base text-black"> <span class=${Element.font}>${Element.name}</span> </h1>
 
-				<p class="text-xl font-medium caveat text-white ">${Element.size}</p>
+		<p class="md:text-xl font-medium caveat text-white text-base ">${Element.size}</p>
 
-				
-				<p class="text-xl font-semibold ${Element.font}">Precio</p>
-				<span class="text-2xl pl-4 font-bold font2 ">$ ${Element.price}</span>
+		
+		<p class="text-xl font-semibold ${Element.font}">Precio</p>
+		<span class="text-2xl pl-4 font-bold font2 ">$ ${Element.price}</span>
 
-			</div>
+	</div>
 
-		</div>`
+</div>`
 			}).join('')
 		catalogue.innerHTML = ''
 		catalogue.insertAdjacentHTML('beforeend',items)
@@ -131,17 +131,18 @@ import NoFilter from "../sections/catalogue/no-filter.astro";
 		const value = e.currentTarget.dataset.name
 		const filteredItems = data.filter((items) => items.type === value)
 		const mappedItems = filteredItems.map((Element) => {
-			return `<div class=" h-[355px] w-32  md:h-80 relative px-2 md:w-52  ">
+			return`
+		<div class="h-[340px] w-32  md:h-80 relative px-2 md:w-52  ">
   
-	<img src=${Element.img} alt="" class=" absolute top-0 z-10 h-52 w-48 left-0 right-0 mx-auto my-0">
+	<img src=${Element.img} alt="" class="absolute top-0 z-10 h-52 w-48 left-0 right-0 mx-auto my-0">
 
 
 	<div class="bg-cardThree flex flex-col  justify-end text-start 
-h-52 absolute left-0 right-0 bottom-0 px-4 rounded-md">
+  h-52 absolute left-0 right-0 bottom-0 px-4 rounded-md">
 		
 		<h1 class="font-semibold md:text-xl text-base text-black"> <span class=${Element.font}>${Element.name}</span> </h1>
 
-		<p class="text-xl font-medium caveat text-white ">${Element.size}</p>
+		<p class="md:text-xl font-medium caveat text-white text-base ">${Element.size}</p>
 
 		
 		<p class="text-xl font-semibold ${Element.font}">Precio</p>
