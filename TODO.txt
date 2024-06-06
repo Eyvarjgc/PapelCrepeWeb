@@ -1,0 +1,1 @@
+Implementar funcionalidas random, cambiar imagenes cada cierto dia

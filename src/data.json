@@ -1,7 +1,7 @@
 [
 {
   "name": "Granja de Zenón",
-  "size": "Tamaño mediano (27 cm)",
+  "size": "Tamaño mediano (27 \")",
   "price": "13.50",
   "img": "/catalogue/pinata1.png",
   "font": "caveat",
@@ -9,7 +9,7 @@
 },
 {
   "name": "Paw Patrol",
-  "size": "Tamaño pequeño (18 cm)",
+  "size": "Tamaño pequeño (18 \")",
   "price": "10.00",
   "img": "/catalogue/pinata2.png",
   "font": "caveat",
@@ -17,7 +17,7 @@
 },
 {
   "name": "Moana Bebé",
-  "size": "Tamaño grande (30 cm)",
+  "size": "Tamaño grande (30 \")  ",
   "price": "15.00",
   "img": "/catalogue/pinata3.png",
   "font": "caveat",
@@ -25,7 +25,7 @@
 },
 {
   "name": "Caballo",
-  "size": "Tamaño mediano (25 cm)",
+  "size": "Tamaño mediano (25 \")",
   "price": "12.00",
   "img": "/catalogue/pinata4.png",
   "font": "caveat",
@@ -33,7 +33,7 @@
 },
 {
   "name": "Frozen",
-  "size": "Tamaño mediano (27 cm)",
+  "size": "Tamaño mediano (27 \")",
   "price": "13.50",
   "img": "/catalogue/pinata5.png",
   "font": "caveat",
@@ -41,7 +41,7 @@
 },
 {
   "name": "Mickey Mouse",
-  "size": "Tamaño mediano (24 cm)",
+  "size": "Tamaño mediano (24 \")",
   "price": "12.00",
   "img": "/catalogue/pinata6.png",
   "font": "caveat",
@@ -49,7 +49,7 @@
 },
 {
   "name": "Flamenco",
-  "size": "Tamaño mediano (24 cm)",
+  "size": "Tamaño mediano (24 \")",
   "price": "12.00",
   "img": "/catalogue/pinata7.png",
   "font": "caveat",
@@ -57,7 +57,7 @@
 },
 {
   "name": "Piña veraniega",
-  "size": "Tamaño pequeño (18 cm)",
+  "size": "Tamaño pequeño (18 \")",
   "price": "10.00",
   "img": "/catalogue/pinata8.png",
   "font": "caveat",
@@ -65,7 +65,7 @@
 },
 {
   "name": "Bluey",
-  "size": "Tamaño mediano (27 cm)",
+  "size": "Tamaño mediano (27 \")",
   "price": "13.50",
   "img": "/catalogue/pinata9.png",
   "font": "caveat",
@@ -73,7 +73,7 @@
 },
 {
   "name": "Steve(Minecraft)",
-  "size": "Tamaño grande (30 cm)",
+  "size": "Tamaño grande (30 \" ) ",
   "price": "15.00",
   "img": "/catalogue/pinata10.png",
   "font": "caveat",
@@ -81,7 +81,7 @@
 },
 {
   "name": "Sonic el erizo",
-  "size": "Tamaño mediano (27 cm)",
+  "size": "Tamaño mediano (27 \")",
   "price": "13.50",
   "img": "/catalogue/pinata11.png",
   "font": "caveat",
@@ -89,7 +89,7 @@
 },
 {
   "name": "Rubble ",
-  "size": "Tamaño grande (30 cm)",
+  "size": "Tamaño grande (30 \" ) ",
   "price": "15.00",
   "img": "/catalogue/pinata12.png",
   "font": "caveat",
@@ -97,7 +97,7 @@
 },
 {
   "name": "Moana",
-  "size": "Tamaño mediano (27 cm)",
+  "size": "Tamaño mediano (27 \")",
   "price": "13.50",
   "img": "/catalogue/pinata13.png",
   "font": "caveat",
@@ -105,7 +105,7 @@
 },
 {
   "name": "Pastelito",
-  "size": "Tamaño grande (30 cm)",
+  "size": "Tamaño grande (30 \" )  ",
   "price": "15 .00",
   "img": "/catalogue/pinata14.png",
   "font": "caveat",
@@ -113,7 +113,7 @@
 },
 {
   "name": "Mickey Mouse",
-  "size": "Tamaño mediana (27 cm)",
+  "size": "Tamaño mediana (27 \")",
   "price": "13.50",
   "img": "/catalogue/pinata15.png",
   "font": "caveat",
@@ -121,7 +121,7 @@
 },
 {
   "name": "León",
-  "size": "Tamaño pequeña (18 cm)",
+  "size": "Tamaño pequeña (18 \")",
   "price": "10.00",
   "img": "/catalogue/pinata16.png",
   "font": "caveat",
@@ -129,7 +129,7 @@
 },
 {
   "name": "Dinosaurio",
-  "size": "Tamaño mediano (24 cm)",
+  "size": "Tamaño mediano (24 \")",
   "price": "12.00",
   "img": "/catalogue/pinata17.png",
   "font": "caveat",
@@ -137,7 +137,7 @@
 },
 {
   "name": "Bartolito",
-  "size": "Tamaño mediano (27 cm)",
+  "size": "Tamaño mediano (27 \")",
   "price": "13.50",
   "img": "/catalogue/pinata18.png",
   "font": "caveat",
@@ -145,7 +145,7 @@
 },
 {
   "name": "Reno",
-  "size": "Tamaño pequeño (18 cm)",
+  "size": "Tamaño pequeño (18 \")",
   "price": "10.00",
   "img": "/catalogue/pinata19.png",
   "font": "caveat",
@@ -154,7 +154,7 @@
 ,
 {
   "name": "Muñeco de nieve",
-  "size": "Tamaño pequeño (18 cm)",
+  "size": "Tamaño pequeño (18 \")",
   "price": "10.00",
   "img": "/catalogue/pinata20.png",
   "font": "caveat",
@@ -162,7 +162,7 @@
 },
 {
   "name": "Caballo ",
-  "size": "Tamaño pequeño (18 cm)",
+  "size": "Tamaño pequeño (18 \")",
   "price": "10.00",
   "img": "/catalogue/pinata21.png",
   "font": "caveat",
@@ -170,8 +170,8 @@
 }
 ,
 {
-  "name": "paw patrol ",
-  "size": "Tamaño mediano (27 cm)",
+  "name": "Paw patrol ",
+  "size": "Tamaño mediano (27 \")",
   "price": "13.50",
   "img": "/catalogue/pinata22.png",
   "font": "caveat",
@@ -179,7 +179,7 @@
 },
 {
   "name": "Tematica Mariquita ",
-  "size": "Tamaño mediano (27 cm)",
+  "size": "Tamaño mediano (27 \")",
   "price": "13.50",
   "img": "/catalogue/pinata23.png",
   "font": "caveat",
@@ -187,7 +187,7 @@
 },
 {
   "name": "Ariel, la Sirenita",
-  "size": "Tamaño grande (27 cm)",
+  "size": "Tamaño grande (27 \") ",
   "price": "15.00",
   "img": "/catalogue/pinata24.png",
   "font": "caveat",
