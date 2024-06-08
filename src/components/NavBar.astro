@@ -16,12 +16,12 @@
     md:px-36 md:text-3xl ">
 
     <picture class="hidden sm:flex ">
-      <img src={image} alt="">
+      <img src={image} alt="Logo de Papel Crepe">
     </picture>
 
     <ul class="flex my-0 mx-auto md:items-center gap-8 justify-center flex-wrap ">
       <li class="hover:scale-125 hover:border-b-2 transition-all hover:border-pink-300">
-        <a href="/"  >Inicio</a></li>
+        <a href="/">Inicio</a></li>
       <li class="hover:scale-125 hover:border-b-2 transition-all hover:border-pink-300"><a href="#faq" >Preguntas frecuentes</a></li>
       <li class="hover:scale-125 hover:border-b-2 transition-all hover:border-pink-300"><a href='/catalogue/' >Catálogo</a></li>
       
@@ -30,11 +30,13 @@
         hover:scale-125 hover:border-b-2 transition-all hover:border-pink-300" ><a href="https://api.whatsapp.com/send?phone=50762290991&text=Hola%20me%20gustaria%20pedir%20una%20piñata%20personalizada." >Contacto</a></li>
     </ul>
 
-    <footer class="hidden sm:flex  md:flex-grow justify-end pr-12 md:text-4xl">
-      <p>{number}</p>
-    </footer>
+    <div  class="hidden sm:flex  md:flex-grow justify-end pr-12 md:text-4xl">
+      <span >{number}</span>
+    </div>
   </nav>
+
   <br class="md:hidden">
+
   <span class="block border-[1px] w-3/4   mx-auto   border-line "></span>
-  <p class="sm:hidden flex justify-center items-center text-3xl mt-2 caveat">{number}</p>
+  <p class="sm:hidden flex justify-center items-center text-2xl mt-2 caveat">{number}</p>
 </header>

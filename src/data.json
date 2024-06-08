@@ -3,7 +3,7 @@
   "name": "Granja de Zenón",
   "size": "Tamaño mediano (27 \")",
   "price": "13.50",
-  "img": "/catalogue/pinata1.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-granja.png",
   "font": "caveat",
   "type": "numbers"
 },
@@ -11,7 +11,7 @@
   "name": "Paw Patrol",
   "size": "Tamaño pequeño (18 \")",
   "price": "10.00",
-  "img": "/catalogue/pinata2.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-paw-patrol.png",
   "font": "caveat",
   "type": "characters"
 },
@@ -19,7 +19,7 @@
   "name": "Moana Bebé",
   "size": "Tamaño grande (30 \")  ",
   "price": "15.00",
-  "img": "/catalogue/pinata3.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-moana.png",
   "font": "caveat",
   "type": "characters"
 },
@@ -27,7 +27,7 @@
   "name": "Caballo",
   "size": "Tamaño mediano (25 \")",
   "price": "12.00",
-  "img": "/catalogue/pinata4.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-caballo.png",
   "font": "caveat",
   "type": "animals"
 },
@@ -35,7 +35,7 @@
   "name": "Frozen",
   "size": "Tamaño mediano (27 \")",
   "price": "13.50",
-  "img": "/catalogue/pinata5.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-frozen.png",
   "font": "caveat",
   "type": "numbers"
 },
@@ -43,7 +43,7 @@
   "name": "Mickey Mouse",
   "size": "Tamaño mediano (24 \")",
   "price": "12.00",
-  "img": "/catalogue/pinata6.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-mickey-mouse.png",
   "font": "caveat",
   "type": "characters"
 },
@@ -51,7 +51,7 @@
   "name": "Flamenco",
   "size": "Tamaño mediano (24 \")",
   "price": "12.00",
-  "img": "/catalogue/pinata7.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-flamenco.png",
   "font": "caveat",
   "type": "animals"
 },
@@ -59,7 +59,7 @@
   "name": "Piña veraniega",
   "size": "Tamaño pequeño (18 \")",
   "price": "10.00",
-  "img": "/catalogue/pinata8.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-piña.png",
   "font": "caveat",
   "type": "characters"
 },
@@ -67,7 +67,7 @@
   "name": "Bluey",
   "size": "Tamaño mediano (27 \")",
   "price": "13.50",
-  "img": "/catalogue/pinata9.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-bluey.png",
   "font": "caveat",
   "type": "numbers"
 },
@@ -75,7 +75,7 @@
   "name": "Steve(Minecraft)",
   "size": "Tamaño grande (30 \" ) ",
   "price": "15.00",
-  "img": "/catalogue/pinata10.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-steve.png",
   "font": "caveat",
   "type": "characters"
 },
@@ -83,7 +83,7 @@
   "name": "Sonic el erizo",
   "size": "Tamaño mediano (27 \")",
   "price": "13.50",
-  "img": "/catalogue/pinata11.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-sonic.png",
   "font": "caveat",
   "type": "characters"
 },
@@ -91,7 +91,7 @@
   "name": "Rubble ",
   "size": "Tamaño grande (30 \" ) ",
   "price": "15.00",
-  "img": "/catalogue/pinata12.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-rubble.png",
   "font": "caveat",
   "type": "characters"
 },
@@ -99,7 +99,7 @@
   "name": "Moana",
   "size": "Tamaño mediano (27 \")",
   "price": "13.50",
-  "img": "/catalogue/pinata13.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-moana-numero.png",
   "font": "caveat",
   "type": "numbers"
 },
@@ -107,7 +107,7 @@
   "name": "Pastelito",
   "size": "Tamaño grande (30 \" )  ",
   "price": "15 .00",
-  "img": "/catalogue/pinata14.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-pastelito.png",
   "font": "caveat",
   "type": "characters"
 },
@@ -115,7 +115,7 @@
   "name": "Mickey Mouse",
   "size": "Tamaño mediana (27 \")",
   "price": "13.50",
-  "img": "/catalogue/pinata15.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-mickey-numero.png",
   "font": "caveat",
   "type": "numbers"
 },
@@ -123,7 +123,7 @@
   "name": "León",
   "size": "Tamaño pequeña (18 \")",
   "price": "10.00",
-  "img": "/catalogue/pinata16.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-leon.png",
   "font": "caveat",
   "type": "animals"
 },
@@ -131,7 +131,7 @@
   "name": "Dinosaurio",
   "size": "Tamaño mediano (24 \")",
   "price": "12.00",
-  "img": "/catalogue/pinata17.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-dinosaurio.png",
   "font": "caveat",
   "type": "animals"
 },
@@ -139,7 +139,7 @@
   "name": "Bartolito",
   "size": "Tamaño mediano (27 \")",
   "price": "13.50",
-  "img": "/catalogue/pinata18.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-bartolito.png",
   "font": "caveat",
   "type": "animals"
 },
@@ -147,7 +147,7 @@
   "name": "Reno",
   "size": "Tamaño pequeño (18 \")",
   "price": "10.00",
-  "img": "/catalogue/pinata19.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-reno.png",
   "font": "caveat",
   "type": "animals"
 }
@@ -156,7 +156,7 @@
   "name": "Muñeco de nieve",
   "size": "Tamaño pequeño (18 \")",
   "price": "10.00",
-  "img": "/catalogue/pinata20.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-muñeco-nieve.png",
   "font": "caveat",
   "type": "animals"
 },
@@ -164,7 +164,7 @@
   "name": "Caballo ",
   "size": "Tamaño pequeño (18 \")",
   "price": "10.00",
-  "img": "/catalogue/pinata21.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-caballo-animal.png",
   "font": "caveat",
   "type": "animals"
 }
@@ -173,7 +173,7 @@
   "name": "Paw patrol ",
   "size": "Tamaño mediano (27 \")",
   "price": "13.50",
-  "img": "/catalogue/pinata22.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-paw-patrol-numero.png",
   "font": "caveat",
   "type": "numbers"
 },
@@ -181,7 +181,7 @@
   "name": "Tematica Mariquita ",
   "size": "Tamaño mediano (27 \")",
   "price": "13.50",
-  "img": "/catalogue/pinata23.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-mariquita.png",
   "font": "caveat",
   "type": "numbers"
 },
@@ -189,7 +189,7 @@
   "name": "Ariel, la Sirenita",
   "size": "Tamaño grande (27 \") ",
   "price": "15.00",
-  "img": "/catalogue/pinata24.png",
+  "img": "/catalogue/piñata-personalizada-papelcrepe-ariel.png",
   "font": "caveat",
   "type": "numbers"
 }
