@@ -4,13 +4,12 @@ import NavBar from "../components/NavBar.astro";
 import LandingFooter from "../sections/landingFooter.astro";
 import Buttons from "../components/catalogue/buttons.astro";
 import NoFilter from "../sections/catalogue/no-filter.astro";
-
 ---
 
 <Layout title="Papel crepe">
 	<main class="bg-pink-100">
 
-		<NavBar image="../logo.svg" />
+		<NavBar image="../logo.svg" faq="/#faq"/>
 
 		<section 
 		class="flex flex-col md:flex-row w-[90%] 
@@ -48,9 +47,6 @@ import NoFilter from "../sections/catalogue/no-filter.astro";
 			">
 				
 
-				
-				  
-					    
 
 			</section>
 
@@ -58,7 +54,7 @@ import NoFilter from "../sections/catalogue/no-filter.astro";
 
 
 
-		<LandingFooter />
+		<LandingFooter faq="/#faq" igLogo="../instagram.png"/>
 	</main>
 
 

@@ -5,7 +5,7 @@ const {title, text,id,details} = Astro.props
 
 ---
 
-<section class="bg-gradient-to-r from-primary to-pink-500 rounded-md ">
+<section class="bg-gradient-to-r from-primary to-pink-500 rounded-md transition-all">
   <div class="flex justify-center hover:cursor-pointer hover:scale-105 transition-all faqButton "
   data-id={id}
   >
@@ -18,7 +18,7 @@ const {title, text,id,details} = Astro.props
 
   
   <div data-id={id} class="faqText  text-center px-8  text-xl font2  hidden transition-all p-4 ">
-    <p class="" >{text}</p>
+    <p class="transition-all" >{text}</p>
     {details && 
     
     <p>Piñatas de:</p>

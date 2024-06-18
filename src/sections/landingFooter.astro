@@ -1,5 +1,5 @@
 ---
-  const { igLogo} = Astro.props
+  const { igLogo, faq} = Astro.props
 
 
 ---
@@ -26,9 +26,9 @@
         
         </a></li>
       <li class="hover:text-white transition-all hover:scale-110"><a href="/">Inicio</a> </li>
-      <li class="hover:text-white transition-all hover:scale-110"><a href="#faq">Preguntas frecuentes</a> </li>
+      <li class="hover:text-white transition-all hover:scale-110"><a href={faq}>Preguntas frecuentes</a> </li>
       <li class="hover:text-white transition-all hover:scale-110"><a href="/catalogue/">Catálogo</a>  </li>
-      <li class="hover:text-white transition-all hover:scale-110"><a href="https://api.whatsapp.com/send?phone=50762290991&text=Hola%20me%20gustaria%20pedir%20una%20piñata%20personalizada.">Contáctanos</a>  </li>
+      <li class="hover:text-white transition-all hover:scale-110"><a target="_blank" href="https://api.whatsapp.com/send?phone=50762290991&text=Hola%20me%20gustaria%20pedir%20una%20piñata%20personalizada.">Contáctanos</a>  </li>
     </ul>
     <span class="block border-[1px] my-4"></span>
   
@@ -51,7 +51,7 @@
     
 
     <div class="flex justify-center my-4">
-      <a href="https://www.instagram.com/_papelcrepe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" ><img src={igLogo} alt="" class="w-12"></a>
+      <a target="_blank" href="https://www.instagram.com/_papelcrepe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" ><img src={igLogo} alt="" class="w-12"></a>
     </div>
   
     <div class="my-12">
