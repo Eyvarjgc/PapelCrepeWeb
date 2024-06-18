@@ -1,11 +1,7 @@
 ---
-  interface Props {
-    title: string;
-    text: string;
-    id:string
-  }
 
-const {title, text,id} = Astro.props
+
+const {title, text,id,details} = Astro.props
 
 ---
 
@@ -20,7 +16,20 @@ const {title, text,id} = Astro.props
   </div>
 
 
-  <p class="faqText text-center px-8  text-xl font2  hidden transition-all p-4 " data-id={id}>{text}</p>
+  
+  <div data-id={id} class="faqText  text-center px-8  text-xl font2  hidden transition-all p-4 ">
+    <p class="" >{text}</p>
+    {details && 
+    
+    <p>Piñatas de:</p>
+    }
+    <ul>
+      {details && details.map(item => (
+        <li>* {item}</li>
+      ))}
+    </ul>
+
+  </div>
 
   
 </section>
