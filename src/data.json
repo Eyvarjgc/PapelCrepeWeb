@@ -1,4 +1,94 @@
 [
+  {
+    "name": "Lola bunny Bebé",
+    "size": "Tamaño mediano (27 \")",
+    "price": "13.50",
+    "img": "/catalogue/piñata-personalizada-papelcrepe-Lolabunny-Bebé.png",
+    "font": "caveat",
+    "type": "characters"
+
+  },
+  {
+    "name": "Bugs bunny Bebé",
+    "size": "Tamaño mediano (27 \")",
+    "price": "13.50",
+    "img": "/catalogue/piñata-personalizada-papelcrepe-Bugsbunny-Bebé.png",
+    "font": "caveat",
+    "type": "characters"
+
+  },
+  {
+    "name": "Spirit",
+    "size": "Tamaño mediano (27 \")",
+    "price": "13.50",
+    "img": "/catalogue/piñata-personalizada-papelcrepe-Spirit.png",
+    "font": "caveat",
+    "type": "characters"
+
+  },
+  {
+    "name": "Peach",
+    "size": "Tamaño mediano (27 \")",
+    "price": "13.50",
+    "img": "/catalogue/piñata-personalizada-papelcrepe-Peach.png",
+    "font": "caveat",
+    "type": "characters"
+
+  },
+  {
+    "name": "Mickey y Minnie",
+    "size": "Tamaño mediano (27 \")",
+    "price": "13.50",
+    "img": "/catalogue/piñata-personalizada-papelcrepe-Mickey-Minnie.png",
+    "font": "caveat",
+    "type": "characters"
+
+  },
+  {
+    "name": "Karol g",
+    "size": "Tamaño mediano (27 \")",
+    "price": "13.50",
+    "img": "/catalogue/piñata-personalizada-papelcrepe-KarolG.png",
+    "font": "caveat",
+    "type": "characters"
+
+  },
+  {
+    "name": "Mickey Mouse Playero",
+    "size": "Tamaño mediano (27 \")",
+    "price": "13.50",
+    "img": "/catalogue/piñata-personalizada-papelcrepe-mickye-playero.png",
+    "font": "caveat",
+    "type": "characters"
+
+  },
+  {
+    "name": "Zapato",
+    "size": "Tamaño mediano (27 \")",
+    "price": "13.50",
+    "img": "/catalogue/piñata-personalizada-papelcrepe-zapato.png",
+    "font": "caveat",
+    "type": ""
+
+  },
+  {
+    "name": "Letra D",
+    "size": "Tamaño mediano (24 \")",
+    "price": "12.00",
+    "img": "/catalogue/piñata-personalizada-papelcrepe-letraD.png",
+    "font": "caveat",
+    "type": ""
+
+  },
+  {
+    "name": "Mariposa",
+    "size": "Tamaño mediano (24 \")",
+    "price": "13.50",
+    "img": "/catalogue/piñata-personalizada-papelcrepe-mariposa.png",
+    "font": "caveat",
+    "type": "animals"
+
+  },
 {
   "name": "Granja de Zenón",
   "size": "Tamaño mediano (27 \")",
@@ -193,4 +283,5 @@
   "font": "caveat",
   "type": "numbers"
 }
+
 ]
